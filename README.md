@@ -1,3 +1,7 @@
+# Getting Started
+
+This project follows the [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) for development. Please create your feature branch from main branch and start developing in it and then open a pull request to merge your code into the main branch.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
